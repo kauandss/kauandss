@@ -4,45 +4,64 @@
   </a>
 </div>
 
-#
+---
 
 <div align="center">
   <h3>Kauan Dias ‧ 19 anos ‧ Futuro Desenvolvedor Back-end</h3>
   <p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP. Apaixonado por tecnologia e focado em construir sistemas robustos e escaláveis por trás dos panos.</p>
 </div>
 
-#
+---
 
-<img align="right" alt="" height="190px" src="./src/brisando.gif">
+<div>
+  <!-- O GIF fica flutuando à direita -->
+  <img align="right" src="./src/brisando.gif" height="190px" alt="GIF de introdução" />
+  
+  <h3>📫 Connect with me!</h3>
+  <a href="mailto:kauan.diass05@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23111111?style=for-the-badge&logo=gmail&logoColor=%2342A4F7" alt="Gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/kauandss/"><img src="https://img.shields.io/badge/LinkedIn-%23111111?style=for-the-badge&logo=linkedin&logoColor=%2342A4F7" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.instagram.com/kauandss/"><img src="https://img.shields.io/badge/Instagram-%23111111?style=for-the-badge&logo=instagram&logoColor=%2342A4F7" alt="Instagram" height="40" /></a>
 
-<h3 align="left">Connect with me!</h3>
+  <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kawan.diass06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauandss/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauandss/)
-
-
-<h3 align="left">My Stack ~</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
+  <h3>💻 My Stack</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
 </div>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-stats-extended.vercel.app/api?username=kauandss&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub stats">
+<!-- Trava para o GIF não quebrar a página -->
+<br clear="all"> 
+<br>
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kauandss&langs_count=3&theme=dark_github" alt="Most Used Languages">
+<div align="center">
+  <i>"Não é a linguagem de programação que define o programador, mas sim sua lógica."</i><br>
+  — <b>David Ribeiro Guilherme</b>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br>
+  <!-- Ajuste de altura (height="170") para alinhar os dois cards -->
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kauandss&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub stats">
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauandss&langs_count=3&theme=dark_github" alt="Most Used Languages">
   </a>
 </div>
 
-#
+---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
