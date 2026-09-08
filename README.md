@@ -13,6 +13,8 @@
 
 #
 
+<img align="right" alt="" height="190px" src="./src/brisando.gif">
+
 <h3 align="left">Connect with me!</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kawan.diass06@gmail.com)
