@@ -27,8 +27,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
 </div>
 
 <div style="text-align: center;" align="center">
@@ -40,3 +38,11 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kauandss&langs_count=3&theme=dark_github" alt="Most Used Languages">
   </a>
 </div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauandss/kauandss/output/github-contribution-grid-snake.svg">
+</picture>
